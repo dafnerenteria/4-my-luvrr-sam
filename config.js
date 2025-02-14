@@ -14,7 +14,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['💌', '💋', '💌', '💋','💌', '💋', '💌', '💋','💌', '💋', '💌', '💋','💌', '💋', '💌', '💋','💌', '💋', '💌', '💋'],  // Heart emojis
-        bears: ['💌', '💋','💌', '💋', '💌', '💋','💌', '💋', '💌', '💋','💌', '💋', '💌', '💋']                       // 
+        bears: ['💌', '💋','💌', '💋', '💌', '💋','💌', '💋', '💌', '💋','💌', '💋', '💌', '💋','💌', '💋','💌', '💋', '💌', '💋','💌', '💋', '💌', '💋','💌', '💋', '💌', '💋']                       // 
     },
 
     // Questions and answers
@@ -28,12 +28,12 @@ const CONFIG = {
           
         },
         second: {
-            text: "okii pop quiz time. first question: how much do youu luv me 🤔?  ",                          // For the love meter
-            startText: "hmm dis mucchh",                                   // Text before the percentage
-            nextBtn: "alright easy, hit me with the next your honor :p"                                         // Text for the next button
+            text: "okii pop quiz time. how much do youu luv me 🤔?  ",                          // For the love meter
+            startText: "hmm dis mucchh...i think ",                                   // Text before the percentage
+            nextBtn: "alright easy, hit me with the next your honor "                                         // Text for the next button
         }, 
         third: {
-            text: "will you be my Valentine on ~~February 14th, 2025~~ February 23rd, 2025?? ", // The big question!
+            text: "will you be my Valentine on <s> February 14th, 2025 <s> February 23rd, 2025?? ", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "EHHH YOUUUU LUVVV MEEEE ☺️",  // Shows when they go past 5000%
+        high: " yeahh you still hate me  ",              // Shows when they go past 1000%
+        normal: "okii so you hate me  "                           // Shows when they go past 100%
     },
 
-    // Messages that appear after they say "Yes!"
+    // Messages that appear after they say "duuuuhhhhhhh "
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "yeahh, i'm the universe fav person. sam i know this is small but i want you to feel loved and cared for even from a distance. while we can't celebrate the 14th maybe the 23rd can be our valentines date. ",
+        message: "INFINITE KISSES 4 YOU MY WONDERFUL WOMAN <3333.  ",
+        emojis: "💋💋💋💋💋💋💋💋"  // These will bounce around
     },
 
     // Color scheme for the website
