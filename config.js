@@ -1,14 +1,12 @@
-// ============================================
-// 💝 CUSTOMIZE YOUR VALENTINE'S WEBSITE HERE 💝
-// ============================================
+
 
 const CONFIG = {
     // Your Valentine's name that will appear in the title
-    valentineName: "my sam ",
+    valentineName: "my sweetest sam ",
 
     // The title that appears in the browser tab
     // You can use emojis! 
-    pageTitle: "luvrr ",
+    pageTitle: "4 my luvrr ",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -60,7 +58,7 @@ const CONFIG = {
         backgroundStart: "#EA698B",      // Gradient start (try pastel colors for a soft look)
         backgroundEnd: "#47126B",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
+        buttonHover: "#C05299",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#ff4757"             // Text color (make sure it's readable!)
     },
 
