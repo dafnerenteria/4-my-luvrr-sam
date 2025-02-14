@@ -19,7 +19,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "welcome to my page mauhaha- . The first thing you are required to do is turn your volume up and click the button on the top right. plsss, i'm desperate. ",                                    // First interaction
+            text: "welcome to my page mauhaha . The first thing you are required to do is turn your volume up and click the button on the top right. plsss, i'm desperate. ",                                    // First interaction
             yesBtn: "yess, i've clicked it because i like you ",                                             // Text for "Yes" button
             noBtn: "literally noooo!! don't tell me what to dooo ",                                               // Text for "No" button 
             secretAnswer: "YES! I'VE CLICK IT BECAUSE I LOVE YOUUUUUUUUUUUU SOO MUCCCHHH but pls dont tell me what to do "           // Secret hover message
@@ -77,8 +77,8 @@ const CONFIG = {
         enabled: true,                     // Music feature is enabled
         autoplay: false,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://res.cloudinary.com/dsehfilbn/video/upload/v1739507103/Glue_Song_cp308y.mp3", // Music streaming URL
-        startText: " PLAY MEEEE PLEASEEEE",        // Button text to start music
-        stopText: " STOPPP >.< ",         // Button text to stop music
+        startText: "CLICKK MEEEE PLEASEEEE",        // Button text to start music
+        stopText: " OWWW HEARS HURT STOPPP THIS >.< ",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
     }
 };
