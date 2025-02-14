@@ -31,7 +31,7 @@ const CONFIG = {
             nextBtn: "click here to figure out what this page is really for muahah "                                         // Text for the next button
         },  
         third: {
-            text: "after reviewing and processing the data in the previous response and concluding that you love me. i must ask you, will you be my valentine on F̶e̶b̶r̶u̶a̶r̶y̶ 1̶4̶t̶h̶, 2̶0̶2̶5̶ February 23rd, 2025?? pretty pls! pretty pls! it would be my greatest dream come tru >.<", // The big question!
+            text: "after reviewing and processing the data in the previous response and concluding that you love me. i must ask you, will you be my valentine on F̶e̶b̶r̶u̶a̶r̶y̶ 1̶4̶t̶h̶, 2̶0̶2̶5̶ February 23rd, 2025?? pretty pls! pretty pls! it would make my greatest dream come tru >.<", // The big question!
             yesBtn: "duhhhhhhhhhh!!!",                                             // Text for "Yes" button
             noBtn: "honestly nooo... maybe next year tho"                                                 // Text for "No" button
         }
