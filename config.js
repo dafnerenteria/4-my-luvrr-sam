@@ -19,16 +19,16 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "welcome to my page mauhaha- wait well actually this is more like your page, a fan page of sorts if you will. The first thing you are required to do is turn your volume up and click the button on the top right. plsss, i'm desperate. ",                                    // First interaction
-            yesBtn: "yess, i'll click it because i like you ",                                             // Text for "Yes" button
+            text: "welcome to my page mauhaha- . The first thing you are required to do is turn your volume up and click the button on the top right. plsss, i'm desperate. ",                                    // First interaction
+            yesBtn: "yess, i've clicked it because i like you ",                                             // Text for "Yes" button
             noBtn: "literally noooo!! don't tell me what to dooo ",                                               // Text for "No" button 
-            secretAnswer: "YES! I'LL CLICK IT BECAUSE I LOVE YOUUUUUUUUUUUU SOO MUCCCHHH"           // Secret hover message
+            secretAnswer: "YES! I'VE CLICK IT BECAUSE I LOVE YOUUUUUUUUUUUU SOO MUCCCHHH but pls dont tell me what to do "           // Secret hover message
           
         },
         second: {
             text: "okii pop quiz time, how much do youu luv me 🤔?  ",                          // For the love meter
             startText: "hmm dis mucchh...i think ",                                   // Text before the percentage
-            nextBtn: "alright easy, hit me with the next your honor "                                         // Text for the next button
+            nextBtn: "click here to figure out what this page is really for me "                                         // Text for the next button
         },  
         third: {
             text: "will you be my valentine on F̶e̶b̶r̶u̶a̶r̶y̶ 1̶4̶t̶h̶, 2̶0̶2̶5̶ February 23rd, 2025?? pretty pls! pretty pls! it would be my greatest dream come tru >.<", // The big question!
@@ -47,7 +47,7 @@ const CONFIG = {
 
     // Messages that appear after they say "duuuuhhhhhhh "
     celebration: {
-        title: "i always knew i was lucky but i never knew i was gods favorite. sam i know this is small but i want you to feel loved and cared for even from a distance. while we can't celebrate the 14th i vote for the 23rd to be our valentine date :).this is me asking you out on said date if you vote yes on being my valentine. the 23rd you are mine. ",
+        title: "i always knew i was lucky but i never knew i was gods favorite. sam i know this is small but i want you to feel loved and cared for even from a distance. while we can't celebrate the 14th i vote for the 23rd to be our valentine date :). this is me asking you out on said date if you vote yes on being my valentine. the 23rd you are mine. ",
         message: "INFINITE KISSES 4 YOU MY WONDERFUL WOMAN <3333.  ",
         emojis: "💋💋💋💋💋💋💋💋"  // These will bounce around
     },
@@ -56,7 +56,7 @@ const CONFIG = {
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
         backgroundStart: "#EA698B",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#47126B",        // Gradient end (should complement backgroundStart)
+        backgroundEnd: "#C05299",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
         buttonHover: "#C05299",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#ff4757"             // Text color (make sure it's readable!)
