@@ -33,9 +33,9 @@ const CONFIG = {
             nextBtn: "alright easy, hit me with the next your honor "                                         // Text for the next button
         },  
         third: {
-            text: "will you be my valentine on F̶e̶b̶r̶u̶a̶r̶y̶ 1̶4̶t̶h̶, 2̶0̶2̶5̶ February 23rd, 2025?? pretty pls!pretty pls! it would be my greates dream come tru ", // The big question!
+            text: "will you be my valentine on F̶e̶b̶r̶u̶a̶r̶y̶ 1̶4̶t̶h̶, 2̶0̶2̶5̶ February 23rd, 2025?? pretty pls! pretty pls! it would be my greatest dream come tru >.<", // The big question!
             yesBtn: "duhhhhhhhhhh!!!",                                             // Text for "Yes" button
-            noBtn: "honestly ewwww no no no... maybe next year tho"                                                 // Text for "No" button
+            noBtn: "honestly nooo... maybe next year tho"                                                 // Text for "No" button
         }
     },
 
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "duuuuhhhhhhh "
     celebration: {
-        title: "yeahh, i'm gods favorite. sam i know this is small but i want you to feel loved and cared for even from a distance. while we can't celebrate the 14th maybe the 23rd can be our valentine date. ",
+        title: "i always knew i was lucky but i never knew i was gods favorite. sam i know this is small but i want you to feel loved and cared for even from a distance. while we can't celebrate the 14th maybe the 23rd can be our valentine date. enjoy this little gift of a playlist https://open.spotify.com/playlist/7vMHMO38kiwGYVoJ4miKOS?si=bb84aef20641431e  ",
         message: "INFINITE KISSES 4 YOU MY WONDERFUL WOMAN <3333.  ",
         emojis: "💋💋💋💋💋💋💋💋"  // These will bounce around
     },
