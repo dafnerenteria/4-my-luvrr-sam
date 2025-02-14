@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "duuuuhhhhhhh "
     celebration: {
-        title: "yeahh, i'm the universe fav person. sam i know this is small but i want you to feel loved and cared for even from a distance. while we can't celebrate the 14th maybe the 23rd can be our valentines date. ",
+        title: "yeahh, i'm gods favorite. sam i know this is small but i want you to feel loved and cared for even from a distance. while we can't celebrate the 14th maybe the 23rd can be our valentine date. ",
         message: "INFINITE KISSES 4 YOU MY WONDERFUL WOMAN <3333.  ",
         emojis: "💋💋💋💋💋💋💋💋"  // These will bounce around
     },
