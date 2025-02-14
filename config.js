@@ -4,7 +4,7 @@
 
 const CONFIG = {
     // Your Valentine's name that will appear in the title
-    valentineName: "Sam <3 ",
+    valentineName: "SAM <3 ",
 
     // The title that appears in the browser tab
     // You can use emojis! 
@@ -13,26 +13,27 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['💌', '💋', '💌', '💋'],  // Heart emojis
-        bears: ['💌', '💋']                       // 
+        hearts: ['💌', '💋', '💌', '💋','💌', '💋', '💌', '💋','💌', '💋', '💌', '💋','💌', '💋', '💌', '💋','💌', '💋', '💌', '💋'],  // Heart emojis
+        bears: ['💌', '💋','💌', '💋', '💌', '💋','💌', '💋', '💌', '💋','💌', '💋', '💌', '💋']                       // 
     },
 
     // Questions and answers
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "My sam, welcome to my page mauhaha. The first thing I want you to do is make sure your volume is up and you click the button on the top right.    ",                                    // First interaction
-            yesBtn: "fine I'll click it ",                                             // Text for "Yes" button
-            noBtn: "No, dont tell me what to doooo ",                                               // Text for "No" button
+            text: "My sam, welcome to my page mauhaha- wait well actually this is more like your page, a fan page of sorts if you will. The first thing you are required to do is turn your volume up and click the button on the top right. Please, I'm desperate. ",                                    // First interaction
+            yesBtn: "yess, I'll click it because I like you ",                                             // Text for "Yes" button
+            noBtn: "No!! don't tell me what to dooo ",                                               // Text for "No" button 
+            secretAnswer: "YES! I'LL CLICK IT BECAUSE I LOVE YOUUUUUUUUUUUU SOO MUCCCHHH"           // Secret hover message
           
         },
         second: {
-            text: "Now ",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
-        },
+            text: "okii pop quiz time. first question: how much do youu luv me 🤔?  ",                          // For the love meter
+            startText: "hmm dis mucchh",                                   // Text before the percentage
+            nextBtn: "alright easy, hit me with the next your honor :p"                                         // Text for the next button
+        }, 
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "will you be my Valentine on ~~February 14th, 2025~~ February 23rd, 2025?? ", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -67,9 +68,9 @@ const CONFIG = {
     // Adjust these if you want faster/slower animations
     animations: {
         floatDuration: "15s",           // How long it takes hearts to float up (10-20s recommended)
-        floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
+        floatDistance: "70px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
-        heartExplosionSize: 2.0         // Size of heart explosion effect (1.2-2.0 recommended)
+        heartExplosionSize: "2.0"         // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
     // Background Music (Optional)
