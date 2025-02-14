@@ -21,9 +21,9 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "My sam, welcome to my page mauhaha- wait well actually this is more like your page, a fan page of sorts if you will. The first thing you are required to do is turn your volume up and click the button on the top right. Please, I'm desperate. ",                                    // First interaction
-            yesBtn: "yess, I'll click it because I like you ",                                             // Text for "Yes" button
-            noBtn: "No!! don't tell me what to dooo ",                                               // Text for "No" button 
+            text: "welcome to my page mauhaha- wait well actually this is more like your page, a fan page of sorts if you will. The first thing you are required to do is turn your volume up and click the button on the top right. plsss, i'm desperate. ",                                    // First interaction
+            yesBtn: "yess, i'll click it because i like you ",                                             // Text for "Yes" button
+            noBtn: "literally noooo!! don't tell me what to dooo ",                                               // Text for "No" button 
             secretAnswer: "YES! I'LL CLICK IT BECAUSE I LOVE YOUUUUUUUUUUUU SOO MUCCCHHH"           // Secret hover message
           
         },
