@@ -4,11 +4,11 @@
 
 const CONFIG = {
     // Your Valentine's name that will appear in the title
-    valentineName: "SAM <3 ",
+    valentineName: "my sam ",
 
     // The title that appears in the browser tab
     // You can use emojis! 
-    pageTitle: "hi ",
+    pageTitle: "luvrr ",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
