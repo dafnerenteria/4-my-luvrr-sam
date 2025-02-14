@@ -32,17 +32,6 @@ const CONFIG = {
             startText: "hmm dis mucchh...i think ",                                   // Text before the percentage
             nextBtn: "alright easy, hit me with the next your honor "                                         // Text for the next button
         },  
-        // New question 1
-        third: {
-            text: "do you think we're a great match? ",  // New question text
-            yesBtn: "of course, we're amazing together! ,  // New yes button
-            noBtn: "umm, i'm not sure... "  // New no button
-        },
-        // New question 2
-        fourth: {
-            text: "if you could do anything with me on Valentine's Day, what would it be? ",  // New question text
-            yesBtn: "I'd take you on a dream date! ",  // New yes button
-            noBtn: "Well... probably just chill and hang out "  // New no button
         third: {
             text: "will you be my Valentine on <s> February 14th, 2025 <s> February 23rd, 2025?? ", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
