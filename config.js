@@ -47,7 +47,7 @@ const CONFIG = {
 
     // Messages that appear after they say "duuuuhhhhhhh "
     celebration: {
-        title: "i always knew i was lucky but i never knew i was gods favorite. sam i know this is small but i want you to feel loved and cared for even from a distance. while we can't celebrate the 14th maybe the 23rd can be our valentine date whether that be virtual or in person :). the 23rd you are mine. ",
+        title: "i always knew i was lucky but i never knew i was gods favorite. sam i know this is small but i want you to feel loved and cared for even from a distance. while we can't celebrate the 14th i vote for the 23rd to be our valentine date :).this is me asking you out on said date if you vote yes on being my valentine. the 23rd you are mine. ",
         message: "INFINITE KISSES 4 YOU MY WONDERFUL WOMAN <3333.  ",
         emojis: "💋💋💋💋💋💋💋💋"  // These will bounce around
     },
