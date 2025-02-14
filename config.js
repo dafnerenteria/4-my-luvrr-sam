@@ -33,9 +33,9 @@ const CONFIG = {
             nextBtn: "alright easy, hit me with the next your honor "                                         // Text for the next button
         },  
         third: {
-            text: "will you be my valentine on <del> February 14th, 2025 <del> February 23rd, 2025?? ", // The big question!
+            text: "will you be my valentine on <del>February 14th, 2025</del>  February 23rd, 2025?? pretty pls!pretty pls! it would be my greates dream come tru ", // The big question!
             yesBtn: "duhhhhhhhhhh!!!",                                             // Text for "Yes" button
-            noBtn: "honestly ewwww no no no"                                                 // Text for "No" button
+            noBtn: "honestly ewwww no no no... maybe next year tho"                                                 // Text for "No" button
         }
     },
 
