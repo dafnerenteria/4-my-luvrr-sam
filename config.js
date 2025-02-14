@@ -28,7 +28,7 @@ const CONFIG = {
           
         },
         second: {
-            text: "okii pop quiz time. how much do youu luv me 🤔?  ",                          // For the love meter
+            text: "okii pop quiz time, how much do youu luv me 🤔?  ",                          // For the love meter
             startText: "hmm dis mucchh...i think ",                                   // Text before the percentage
             nextBtn: "alright easy, hit me with the next your honor "                                         // Text for the next button
         },  
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "duuuuhhhhhhh "
     celebration: {
-        title: "i always knew i was lucky but i never knew i was gods favorite. sam i know this is small but i want you to feel loved and cared for even from a distance. while we can't celebrate the 14th maybe the 23rd can be our valentine date. enjoy this little gift of a playlist https://open.spotify.com/playlist/7vMHMO38kiwGYVoJ4miKOS?si=bb84aef20641431e  ",
+        title: "i always knew i was lucky but i never knew i was gods favorite. sam i know this is small but i want you to feel loved and cared for even from a distance. while we can't celebrate the 14th maybe the 23rd can be our valentine date whether that be virtual or in person :). the 23rd you are mine. ",
         message: "INFINITE KISSES 4 YOU MY WONDERFUL WOMAN <3333.  ",
         emojis: "💋💋💋💋💋💋💋💋"  // These will bounce around
     },
