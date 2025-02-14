@@ -26,12 +26,12 @@ const CONFIG = {
           
         },
         second: {
-            text: "okii pop quiz time, how much do youu luv me 🤔?  ",                          // For the love meter
-            startText: "hmm dis mucchh...i think ",                                   // Text before the percentage
-            nextBtn: "click here to figure out what this page is really for me "                                         // Text for the next button
+            text: "okii data collection for important science question, how much do youu luv me 🤔?  ",                          // For the love meter
+            startText: "hmm this mucchh...i think ",                                   // Text before the percentage
+            nextBtn: "click here to figure out what this page is really for muahah "                                         // Text for the next button
         },  
         third: {
-            text: "will you be my valentine on F̶e̶b̶r̶u̶a̶r̶y̶ 1̶4̶t̶h̶, 2̶0̶2̶5̶ February 23rd, 2025?? pretty pls! pretty pls! it would be my greatest dream come tru >.<", // The big question!
+            text: "after reviewing and processing the data in the previous response and concluding that you love me. i must ask you, will you be my valentine on F̶e̶b̶r̶u̶a̶r̶y̶ 1̶4̶t̶h̶, 2̶0̶2̶5̶ February 23rd, 2025?? pretty pls! pretty pls! it would be my greatest dream come tru >.<", // The big question!
             yesBtn: "duhhhhhhhhhh!!!",                                             // Text for "Yes" button
             noBtn: "honestly nooo... maybe next year tho"                                                 // Text for "No" button
         }
@@ -47,7 +47,7 @@ const CONFIG = {
 
     // Messages that appear after they say "duuuuhhhhhhh "
     celebration: {
-        title: "i always knew i was lucky but i never knew i was gods favorite. sam i know this is small but i want you to feel loved and cared for even from a distance. while we can't celebrate the 14th i vote for the 23rd to be our valentine date :). this is me asking you out on said date if you vote yes on being my valentine. the 23rd you are mine. ",
+        title: "i always knew i was lucky but i never knew i was gods favorite. sam i know this is small but i want you to feel loved and cared for even from a distance. while we can't celebrate the 14th i would like to take you on a date on the 23rd, our valentine's day :). ",
         message: "INFINITE KISSES 4 YOU MY WONDERFUL WOMAN <3333.  ",
         emojis: "💋💋💋💋💋💋💋💋"  // These will bounce around
     },
